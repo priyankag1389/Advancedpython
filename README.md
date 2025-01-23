@@ -7,3 +7,4 @@ Polymorphism - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main
 Inheritance - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/5%20Inheritance/Inheritance.ipynb
 Exception Handling - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/6%20Exception%20Handling/exception.ipynb
 Numpy - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/7%20Numpy/numpy.ipynb
+Multithreading - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/8%20Multithreading/Multithread.ipynb
