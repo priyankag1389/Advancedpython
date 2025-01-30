@@ -11,3 +11,4 @@ Multithreading - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/ma
 example1 - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/app.py
 example2 - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/utils/pythagors.py
 webscrapping - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/9%20Wikipedia%20Webscraping/Webscraping.ipynb
+world population - https://en.wikipedia.org/wiki/World_population
