@@ -13,3 +13,4 @@ example2 - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/uti
 webscrapping - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/9%20Wikipedia%20Webscraping/Webscraping.ipynb
 world population - https://en.wikipedia.org/wiki/World_population
 API - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/10%20API%20Project/API.ipynb
+streamlit - https://github.com/utkarshg1/Streamlit-Project-6pm-Wakad/blob/main/client.py
