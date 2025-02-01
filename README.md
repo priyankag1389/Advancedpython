@@ -14,3 +14,4 @@ webscrapping - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main
 world population - https://en.wikipedia.org/wiki/World_population
 API - https://github.com/utkarshg1/Advanced-Python-Wakad-6-pm/blob/main/10%20API%20Project/API.ipynb
 streamlit - https://github.com/utkarshg1/Streamlit-Project-6pm-Wakad/blob/main/client.py
+streamlit1 - https://github.com/utkarshg1/Streamlit-Project-6pm-Wakad/blob/main/app.py
